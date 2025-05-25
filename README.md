@@ -12,9 +12,9 @@ A modern, visually stunning Android application for exploring and discovering de
 
 <!-- Add your app screenshots here -->
 <div align="center">
-  <img src="screenshots/home_screen.png" width="250" alt="Home Screen">
-  <img src="screenshots/detail_screen.png" width="250" alt="Detail Screen">
-  <img src="screenshots/favorites_screen.png" width="250" alt="Favorites Screen">
+  <img src="screenshots/one" width="250" alt="Home Screen">
+  <img src="screenshots/two" width="250" alt="Detail Screen">
+  <img src="screenshots/three" width="250" alt="Favorites Screen">
 </div>
 
 ## 🎥 Demo Video
