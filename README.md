@@ -4,25 +4,24 @@
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-blue.svg)](https://developer.android.com/jetpack/compose)
 [![Material 3](https://img.shields.io/badge/Design-Material%203-orange.svg)](https://m3.material.io)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A modern, visually stunning Android application for exploring and discovering delicious food items. Built with cutting-edge technologies and featuring immersive animations, glassmorphism design, and an intuitive user experience.
 
 ## 📱 Screenshots
 
-<!-- Add your app screenshots here -->
 <div align="center">
-  <img src="screenshots/one" width="250" alt="Home Screen">
-  <img src="screenshots/two" width="250" alt="Detail Screen">
-  <img src="screenshots/three" width="250" alt="Favorites Screen">
+  <img src="screenshots/one" width="250">
+  <img src="screenshots/two" width="250" >
+  <img src="screenshots/three" width="250" >
+  <img src="screenshots/four" width="250" >
+  <img src="screenshots/five" width="250">
 </div>
 
 ## 🎥 Demo Video
 
-<!-- Add your demo video here -->
 <div align="center">
   <a href="demo/food_explorer_demo.mp4">
-    <img src="demo/video_thumbnail.png" width="600" alt="Demo Video Thumbnail">
+    <img src="demo/vid" width="600" alt="Demo Video Thumbnail">
   </a>
   <p><em>Click to watch the full demo video</em></p>
 </div>
@@ -240,8 +239,6 @@ We welcome contributions to make Food Explorer even better! Here's how you can h
 - [ ] **Social sharing** of favorite foods
 
 ### **Technical Improvements**
-- [ ] **Unit tests** coverage expansion
-- [ ] **UI tests** with Compose testing
 - [ ] **Performance profiling** and optimization
 - [ ] **Accessibility** improvements
 - [ ] **Localization** support
@@ -251,8 +248,8 @@ We welcome contributions to make Food Explorer even better! Here's how you can h
 
 **Your Name**
 - GitHub: [@DebugWithAryan](https://github.com/DebugWithAryan)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/aryanjaiswal1)
-- Email: your.email@example.com
+- LinkedIn: [Aryan Jaiswal](https://linkedin.com/in/aryanjaiswal1)
+- Email: aryanjaiswal123123@gmail.com
 
 ## 🙏 Acknowledgments
 
