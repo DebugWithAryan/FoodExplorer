@@ -20,7 +20,7 @@ A modern, visually stunning Android application for exploring and discovering de
 ## 🎥 Demo Video
 
 <div align="center">
-  <a href="demo/food_explorer_demo.mp4">
+  <a href="demo/vid.mp4">
     <img src="demo/vid" width="600" alt="Demo Video Thumbnail">
   </a>
   <p><em>Click to watch the full demo video</em></p>
